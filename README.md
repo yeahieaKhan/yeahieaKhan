@@ -7,7 +7,8 @@
 
 
 
-<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/react?style=for-the-badge&logoColor=white&color=white">
+<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/react?style=for-the-badge&logoColor=flat&logoSize=react&label=appveyor&color=white&cacheSeconds=auto">
+
 
 
 
