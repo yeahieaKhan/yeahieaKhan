@@ -19,9 +19,11 @@
 <img src="https://i.ibb.co.com/GQ22ShBj/mongo.png"/>
 <img src="https://i.ibb.co.com/zjRYP0B/firebase.png"/>
 </p>
-<p align="center">
 
-</p>
+
+## Current Activities:
+I am exploring Next.js.
+I working doctor portal website
 
 
 
