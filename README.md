@@ -1,7 +1,9 @@
 hello i am yeahiea
 
 
-<img src="https://i.ibb.co.com/ccxFTMFj/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png"/>
+<p>
+  <img src="https://i.ibb.co.com/ccxFTMFj/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png"/>
+</p>
 
 
 
