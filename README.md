@@ -21,7 +21,7 @@
 </p>
 
 
-Current Activities:
+## Current Activities:
 👩‍💻 I am exploring Next.js.
 <br>
 🏥 I am working on a doctor portal website.
