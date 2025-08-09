@@ -7,6 +7,9 @@
 
 
 
+<img src="https://img.shields.io/bundlephobia/:format/:packageName
+">
+
 
 
 <p>
