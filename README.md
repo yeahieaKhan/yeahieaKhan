@@ -7,7 +7,7 @@
 
 
 
-<img alt="React" src="https://img.shields.io/bundlephobia/min/react?style=for-the-badge&logoColor=flat&logoSize=react&label=appveyor&color=white&cacheSeconds=auto">
+<img alt="React" src="https://img.shields.io/bundlephobia/min/react?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 
