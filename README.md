@@ -2,7 +2,7 @@ hello i am yeahiea
 
 
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<img src="https://i.ibb.co.com/ccxFTMFj/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png" />
 </a>
 
 
