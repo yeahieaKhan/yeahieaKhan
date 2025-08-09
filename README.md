@@ -7,8 +7,8 @@
 
 
 
-<img src="https://img.shields.io/bundlephobia/:format/:packageName
-">
+<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/react">
+
 
 
 
