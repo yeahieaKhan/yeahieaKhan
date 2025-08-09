@@ -21,10 +21,10 @@
 </p>
 
 
-## Current Activities:
-I am exploring Next.js.
-I working doctor portal website
-
+Current Activities:
+👩‍💻 I am exploring Next.js.
+<br>
+🏥 I am working on a doctor portal website.
 
 
 
