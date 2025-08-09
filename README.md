@@ -5,10 +5,12 @@ hello i am yeahiea
 <br>
 <p align="center">
 <img src="https://i.ibb.co.com/jPxqcr8D/HTML.png"/>
-<img src="https://i.ibb.co.com/jPxqcr8D/HTML.png"/>
+<img src="https://i.ibb.co.com/27SD6Y5k/css.png"/>
 <img src="https://i.ibb.co.com/d4BmzSnc/Bootsrap.png"/>
 <img src="https://i.ibb.co.com/qMh3Ykw7/tailwind.png"/>
   <br>
+  
+<img src="https://i.ibb.co.com/nqtX5RY4/Java-Script.png"/>
 <img src="https://i.ibb.co.com/4R03zB1q/react.png"/>
 <img src="https://i.ibb.co.com/V1h39SN/express.png"/>
 <img src="https://i.ibb.co.com/GQ22ShBj/mongo.png"/>
