@@ -3,29 +3,6 @@
 <img src="https://i.ibb.co.com/tw7txczB/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-3.png"/>
 </a>
 
-
-
-
-
-<img alt="React" src="https://img.shields.io/bundlephobia/min/react?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-
-
-
-
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
-
-
-
-
-
 ## I am working on 
 
 <br>
