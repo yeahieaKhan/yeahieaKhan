@@ -7,7 +7,7 @@
 
 
 
-<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/react">
+<img alt="React" src="https://img.shields.io/bundlephobia/min/react">
 
 
 
